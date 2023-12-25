@@ -9,16 +9,7 @@ I'm a software developer who loves to build products/tools that increase develop
 - 📫 How to reach me: [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shankysharma/) or [Email](shankybnl@gmail.com)
 - 😄 Pronouns: He/Him
 
-
-<!--
-- 🔭 I’m currently working on ...
-- ⚡ Fun fact: ...
-**shankybnl/shankybnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
 <br>
-
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shankybnl&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<br>
 ![](https://komarev.com/ghpvc/?username=shankybnl)
